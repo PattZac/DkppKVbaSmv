@@ -1,0 +1,7 @@
+C:\Users\unkno\source\repos\DkppKVbaSmv\DkppKVbaSmv\bin\Debug\DkppKVbaSmv.exe.config
+C:\Users\unkno\source\repos\DkppKVbaSmv\DkppKVbaSmv\bin\Debug\DkppKVbaSmv.exe
+C:\Users\unkno\source\repos\DkppKVbaSmv\DkppKVbaSmv\bin\Debug\DkppKVbaSmv.pdb
+C:\Users\unkno\source\repos\DkppKVbaSmv\DkppKVbaSmv\obj\Debug\DkppKVbaSmv.csproj.AssemblyReference.cache
+C:\Users\unkno\source\repos\DkppKVbaSmv\DkppKVbaSmv\obj\Debug\DkppKVbaSmv.csproj.CoreCompileInputs.cache
+C:\Users\unkno\source\repos\DkppKVbaSmv\DkppKVbaSmv\obj\Debug\DkppKVbaSmv.exe
+C:\Users\unkno\source\repos\DkppKVbaSmv\DkppKVbaSmv\obj\Debug\DkppKVbaSmv.pdb
